@@ -5,6 +5,8 @@ sidebar_position: 1
 # Introduction
 Metatester is a framework that verifies the reliability, efficiency and coverage of automated tests.
 
+It is currently in development stage.
+
 # Problem
 When developing automated testing, the usual focus is on the number and speed of tests, but a lot less focus on attempting to prove their reliability and effectiveness.
 
